@@ -1,13 +1,13 @@
 {
-  "name": "react-maskedinput",
+  "name": "react-maskedinput-autofill",
   "description": "Masked <input/> React component",
   "version": "3.3.4",
   "main": "./lib/index.js",
   "jsnext:main": "es6/index.js",
   "standalone": "MaskedInput",
-  "homepage": "https://github.com/insin/react-maskedinput",
+  "homepage": "https://github.com/aesopwolf/react-maskedinput",
   "license": "MIT",
-  "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
+  "author": "Aesop Wolf <aesopwolf@gmail.com>",
   "keywords": [
     "react",
     "masked",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/insin/react-maskedinput.git"
+    "url": "http://github.com/aesopwolf/react-maskedinput.git"
   }
 }
