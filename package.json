@@ -4,10 +4,10 @@
   "version": "3.3.4",
   "main": "./lib/index.js",
   "jsnext:main": "es6/index.js",
-  "standalone": "MaskedInput",
-  "homepage": "https://github.com/aesopwolf/react-maskedinput",
+  "standalone": "MaskedInputMaxwell",
+  "homepage": "https://github.com/bad6e/",
   "license": "MIT",
-  "author": "Aesop Wolf <aesopwolf@gmail.com>",
+  "author": "Bret Doucette <doucette.bret@gmail.com>",
   "keywords": [
     "react",
     "masked",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/aesopwolf/react-maskedinput.git"
+    "url": "http://github.com/bad6e/react-maskedinput.git"
   }
 }
